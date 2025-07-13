@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Host/bin/Debug/net8.0-windows
+/Host/obj/Debug
+/Host/obj
+/Logic/bin/Debug/net8.0
+/Logic/obj
+/Test/Consumer/bin/Debug/net8.0
+/Test/Consumer/obj
+/Test/RabbitPublisher.Contracts/bin/Debug/net8.0
+/Test/RabbitPublisher.Contracts/obj

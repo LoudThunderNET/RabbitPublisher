@@ -12,3 +12,9 @@
 /Test/Consumer/obj
 /Test/RabbitPublisher.Contracts/bin/Debug/net8.0
 /Test/RabbitPublisher.Contracts/obj
+/Host/bin
+/Host/Contracts
+/Installer
+/Logic/bin
+/Test/Consumer/bin/Release/net8.0
+/Test/RabbitPublisher.Contracts/bin/Release/net8.0
